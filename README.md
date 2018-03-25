@@ -1,9 +1,7 @@
-# kitchen
-Anita's kitchen project
-# DERRICK'S Portfolio.
+# Anita's kitchen project
 #### Created on, 23.03.2018
 #### By **Derrick**
-![GitHub Logo](../img/logoBig.png)
+![GitHub Logo](img/logoBig.png)
 
 ## Description
 This is a Anita's kitchen project i created as a part of my assignment at moringa school.

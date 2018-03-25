@@ -4,6 +4,102 @@
 		"selected_items":
 		[
 			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"magin",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"i",
+				"inset"
+			],
+			[
+				"shad",
+				"box-shadow"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"fon",
+				"font-size\t(styles.css)"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"col-sm-p",
+				"col-sm-pull-2 \tBootstrap 3 Class"
+			],
+			[
+				"pading",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bac",
+				"backgrounds"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"tex",
+				"text-center \tBootstrap 3 Class"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
 				"consol",
 				"console.log\t(scripts.js)"
 			],
@@ -44,16 +140,8 @@
 				"border"
 			],
 			[
-				"paddi",
-				"padding-left"
-			],
-			[
 				"na",
 				"navbar"
-			],
-			[
-				"li",
-				"li\tTag"
 			],
 			[
 				"backgroud-",
@@ -64,20 +152,8 @@
 				"Function\t( paramsAndBody_..: string ): Function Function"
 			],
 			[
-				"marg",
-				"margin-bottom"
-			],
-			[
-				"padd",
-				"padding-bottom"
-			],
-			[
 				"ma",
 				"margin-top"
-			],
-			[
-				"margin",
-				"margin-bottom"
 			],
 			[
 				"fo",
@@ -98,18 +174,6 @@
 			[
 				"u",
 				"ul\tTag"
-			],
-			[
-				"font",
-				"font-size"
-			],
-			[
-				"fon",
-				"font-style"
-			],
-			[
-				"padding",
-				"padding-top"
 			],
 			[
 				"ser",
@@ -136,14 +200,6 @@
 				"background-image"
 			],
 			[
-				"ba",
-				"background-color"
-			],
-			[
-				"back",
-				"background-color"
-			],
-			[
 				"list-sty",
 				"list-style-type"
 			],
@@ -155,6 +211,33 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5879,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/scripts.js",
+			"settings":
+			{
+				"buffer_size": 459,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 2039,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -225,11 +308,18 @@
 	},
 	"expanded_folders":
 	[
-		"/home/deryq/Desktop/moringa/wk2fr/kitchen"
+		"/home/deryq/Desktop/moringa/wk2fr/kitchen",
+		"/home/deryq/Desktop/moringa/wk2fr/kitchen/img/footerlogos",
+		"/home/deryq/Desktop/moringa/wk2fr/kitchen/js"
 	],
 	"file_history":
 	[
+		"/home/deryq/Desktop/moringa/wk2fr/kitchen/css/slick.css",
+		"/home/deryq/Desktop/moringa/wk2fr/kitchen/css/slick-theme.css",
+		"/home/deryq/Desktop/moringa/wk2fr/kitchen/css/styles.css",
+		"/home/deryq/Desktop/moringa/wk2fr/kitchen/.gitignore",
 		"/home/deryq/Desktop/moringa/wk2wn/index.html",
+		"/home/deryq/Desktop/moringa/wk2fr/kitchen/index.html",
 		"/home/deryq/Desktop/moringa/wk2thurs/index.html",
 		"/home/deryq/Desktop/moringa/wk2wn/myjs.js",
 		"/home/deryq/Desktop/moringa/wk2tues/index.html",
@@ -293,8 +383,105 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5638,
+								5638
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4914.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/scripts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								451,
+								451
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 355.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2039,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1273,
+								1273
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Boxy Solarized Light.tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1957.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -315,11 +502,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.968905472637,
 			1.0
 		],
 		"rows":
@@ -387,7 +581,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 227.0,
+	"side_bar_width": 215.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

@@ -24,7 +24,7 @@ Html file first created to give the site a structure then styles added using css
 * Then push to the remote repository on github.**git push origin master**.
 
 ## Accessing the portfolio.
-The site can be viewed from here [dery's blog](https://muriithiderro.github.io/kitchen/) or [portfolio github repository](https://github.com/muriithiderro/kitchen).
+The site can be viewed from here [Anita's kitchen website](https://muriithiderro.github.io/kitchen/) or [kitchen github repository](https://github.com/muriithiderro/kitchen).
 
 ### License
 *The site and materials can be accessed by the public freely*

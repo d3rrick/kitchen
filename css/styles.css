@@ -182,4 +182,20 @@
     background:green;
 
   }
+
+  .last{
+  	margin-top: 40px;
+  	text-align: center;
+  	
+  }
+  .last img{
+  	height :70px;
+  	margin-top: 30px;
+  	padding-left: 800px;
+  }
+  .last h1{
+  	float: right;
+  	margin-bottom:50px;
+  	margin-right:900px;
   
+  }

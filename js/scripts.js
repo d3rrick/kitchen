@@ -28,5 +28,4 @@ $(document).ready(function(){
      alert( "hello visitor, you have successifully been subscribed.. " +email);
 
    });
-
 });

@@ -1,213 +1,189 @@
 .jumbotron{
-	background-image: url("../img/backgrounds/landing.jpg");
-	background-repeat: no-repeat;
-	height: 80vh;
-	background-size: cover;
-	margin-bottom : 0%;
-	/*padding : 0%;*/
-	align-items: center;
+background-image: url("../img/backgrounds/landing.jpg");
+background-repeat: no-repeat;
+height: 80vh;
+background-size: cover;
+margin-bottom : 0%;
+/*padding : 0%;*/
+align-items: center;
 }
-
 .jumbotron img{
-	padding-left: 42%;
+padding-left: 42%;
 }
-
 .jumbotron h1{
-	text-align: center;
-	padding-top: 2%;
-	color: white;
-	font-family: 'IBM Plex Serif', serif;
-
+text-align: center;
+padding-top: 2%;
+color: white;
+font-family: 'IBM Plex Serif', serif;
 }
 .div1 {
-	border-top: 0.5% solid black;
-	border-radius: 20%;
-    width: 4%;
-    height: 0.5%;
-    background-color: white;
-    margin: 1% 6%;
+border-top: 0.5% solid black;
+border-radius: 20%;
+width: 4%;
+height: 0.5%;
+background-color: white;
+margin: 1% 6%;
 }
-
 .container-fluid{
-	padding-top: 0%;
-	margin-top: 0%;
+padding-top: 0%;
+margin-top: 0%;
 }
 .col-md-3{
-	
-	padding:0%;
-	margin: 0%;
-	height:100%;
-}
 
+padding:0%;
+margin: 0%;
+height:100%;
+}
 .happy{
-	background-color: white;
-	text-align: center;
-	font-weight: 50px;
-	height: 50%;
+background-color: white;
+text-align: center;
+font-weight: 50px;
+height: 50%;
 }
 .happy h1{
-	color:black;
+color:black;
 }
 .party{
-	background-color: red;
-	text-align: center;
-	height: 50%;	
+background-color: red;
+text-align: center;
+height: 50%;
 }
-
 .breakfast{
-    background-image: url("../img/foodtop/breakfast.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+background-image: url("../img/foodtop/breakfast.jpg");
+background-repeat: no-repeat;
+background-size: cover;
 }
 .breakfast h1{
-	color:white;
-	padding-top: 15%;
+color:white;
+padding-top: 15%;
 }
 .lunch{
-   background-image: url("../img/foodtop/lunch.jpg");
-   background-repeat: no-repeat;
-   background-size: cover;
-   
+background-image: url("../img/foodtop/lunch.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
 }
 .lunch h1{
-	color:white;
-	padding-top: 15%;
+color:white;
+padding-top: 15%;
 }
-
-
 .dinner{
-	background-image: url("../img/foodtop/dinner.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
+background-image: url("../img/foodtop/dinner.jpg");
+background-repeat: no-repeat;
+background-size: cover;
 }
 .dinner h1{
-	color:white;
-	padding-top: 15%;
+color:white;
+padding-top: 15%;
 }
-
 .drinkcol1{
-	background-image: url("../img/drink1.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	height: 85%;
-	margin-top: 30px;
-	
-	/*margin-left: 20px;*/
+background-image: url("../img/drink1.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+height: 85%;
+margin-top: 30px;
 
+/*margin-left: 20px;*/
 }
 .drinkcol2{
-	background-image: url("../img/drink2.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	height: 85%;
-	margin-top: 30px;
-	
-	
+background-image: url("../img/drink2.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+height: 85%;
+margin-top: 30px;
+
+
 }
 .secondcontainer{
-	background-image: url("../img/backgrounds/foodsBg.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	height :70vh;
-
+background-image: url("../img/backgrounds/foodsBg.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+height :70vh;
 }
-
 .thirdcontainer{
-	height :50vh;
+height :50vh;
 }
-
 .forthcontainer{
-	height :40vh;
-	background-image: url("../img/backgrounds/subscribe.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
+height :40vh;
+background-image: url("../img/backgrounds/subscribe.jpg");
+background-repeat: no-repeat;
+background-size: cover;
 }
 .fifthcontainer{
-	height :40vh;
-	background-color: #F15A29;
-
+height :40vh;
+background-color: #F15A29;
 }
-
 .fifthcontainer h1{
-	font-size: 50px;
-	color:white;
-	text-align: center;
-	padding-top: 30px;
+font-size: 50px;
+color:white;
+text-align: center;
+padding-top: 30px;
 }
 .fifthcontainer p{
-	color:white;
-	font-size:20px;
-	text-align: center;
-	padding-bottom: 60px;
+color:white;
+font-size:20px;
+text-align: center;
+padding-bottom: 60px;
 }
 .fifthcontainer h3{
-	color:white;
-	font-size: 30px;
-	text-align: center;
+color:white;
+font-size: 30px;
+text-align: center;
 }
-
-
 .carousel{
-    margin-bottom: 50px;
-    padding-left: 200px;
-    padding-right: 200px;
-  }
-  .carousel-control{
-    left:-12px;
-    height: 0px;
-    width: 40px;
-    /*background: none repeat scroll 0 0 #222222;*/
-    border: 4px solid white;
-    border-radius: 23px 23px 23px 23px;
-    margin-top: 0px; 
-    padding-left: 23px;
-    color: #F5581B;
-
-      }
-  .carousel-control.right{
-    right: 100px;
-
-  }
-  .carousel-indicators{
-    right: 40%;
-    top: auto;
-    bottom: -40px;
-    margin-right:-50px;
-  }
-
-  .carousel-indicators li{
-    background:red;
-  }
-  .carousel-indicators .active{
-    background:green;
-
-  }
-
-  .last{
-  	margin-top: 30px;
-  	text-align: center;
-  	
-  }
-  .last img{
-  	height :70px;
-  	margin-top: 30px;
-  	padding-left: 800px;
-  }
-  .last h1{
-  	float: right;
-  	margin-bottom:50px;
-  	margin-right:800px;
-
-  }
-  .social{
-  
-  	list-style-type: none;
-  	text-align: center;
-  }
-
-.social li{
-	display: inline;
+margin-bottom: 50px;
+padding-left: 200px;
+padding-right: 200px;
 }
-  .social li img{
-     height: 50px;
-  }
+.carousel-control{
+left:-12px;
+height: 0px;
+width: 40px;
+/*background: none repeat scroll 0 0 #222222;*/
+border: 4px solid white;
+border-radius: 23px 23px 23px 23px;
+margin-top: 0px;
+padding-left: 23px;
+color: #F5581B;
+}
+.carousel-control.right{
+right: 100px;
+}
+.carousel-indicators{
+right: 40%;
+top: auto;
+bottom: -40px;
+margin-right:-50px;
+}
+.carousel-indicators li{
+background:red;
+}
+.carousel-indicators .active{
+background:green;
+}
+.last{
+margin-top: 30px;
+text-align: center;
+
+}
+.last img{
+height :70px;
+margin-top: 30px;
+padding-left: 800px;
+}
+.last h1{
+float: right;
+margin-bottom:50px;
+margin-right:800px;
+}
+.social{
+
+list-style-type: none;
+text-align: center;
+}
+.social li{
+display: inline;
+}
+.social li img{
+height: 50px;
+}

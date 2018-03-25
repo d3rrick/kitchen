@@ -2,8 +2,6 @@ $(document).ready(function(){
 
 
 
-
-
   $(".breakfast h1").mouseover(function(){
     $(this).css("color", "black");
     $(".breakfast").css( "opacity",0.4);
@@ -26,8 +24,9 @@ $(document).ready(function(){
 
    $(".embtn").click(function(){
      var email = $("#email").val();
+
      alert( "hello visitor, you have successifully been subscribed.. " +email);
 
    });
 
-});
+});it

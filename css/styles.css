@@ -184,7 +184,7 @@
   }
 
   .last{
-  	margin-top: 40px;
+  	margin-top: 30px;
   	text-align: center;
   	
   }
@@ -196,6 +196,18 @@
   .last h1{
   	float: right;
   	margin-bottom:50px;
-  	margin-right:900px;
+  	margin-right:800px;
+
+  }
+  .social{
   
+  	list-style-type: none;
+  	text-align: center;
+  }
+
+.social li{
+	display: inline;
+}
+  .social li img{
+     height: 50px;
   }
